@@ -1,0 +1,28 @@
+name: TestSiteMW
+favicon: null
+layout_spectrum: 0.55973309581168
+typography_spectrum: 0.07154452078975737
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2823001011274755
+  lightness: 0.26122792484238744
+  saturation: 0.264237699797377
+  rhythmicContrast: 0.465484717162326
+purpose: []
